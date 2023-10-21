@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PH Quiz</string>
+    <string name="programming_here">Programming Here</string>
+    <string name="quiz">Quiz</string>
+    <string name="highscore">Highscore</string>
+    <string name="_500_points">0</string>
+    <string name="start">Start</string>
+    <string name="questions">Questions:</string>
+    <string name="score">Score:</string>
+    <string name="what_is_name_of_this_photo">what is name of this photo?</string>
+    <string name="_100_points">100 points</string>
+    <string name="qus">QUS</string>
+    <string name="back_to_main">Back to main</string>
+    <string name="congratulation_n_you_complete_all_the_question">Congratulation!!\n You Complete all the question!</string>
+</resources>
